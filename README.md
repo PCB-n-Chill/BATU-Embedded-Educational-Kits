@@ -10,8 +10,11 @@ there are 12 experiments, each with a special use case, they are as follows:
 
 | experiment | Description | Main concept |
 | --- | --- | ---|
-| 1 | An arduino nano board that's connected to a buzzer and also an MQ sensor | using MQ sensors with arduino |
-| 2 |||
+
+| 1 | An arduino nano that's connected to a buzzer and also an MQ sensor | using MQ sensors with arduino |
+
+| 2 | An arduino nano that's connected to a 16x2 LCD in 4bit mode, a MOSFET motor driver, a DS18b20 temperature sensor and a joystick module | simple motor speed control with temperature and joystick and display data on LCD|
+
 | 3 |||
 | 4 |||
 | 4v1esp |||
