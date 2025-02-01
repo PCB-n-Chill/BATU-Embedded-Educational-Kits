@@ -6,6 +6,8 @@ We call them, experiments, the idea is to have a premade set of hardware that's 
 
 these experiments includes PCB and schematic designs that's optimized for PCB home fabrication (i.e. big soldering pads, thick tracks....) with the soul intended purpose for making them easy to make at home and also for those who want to practice making PCBs at home, essentially the whole thing is so you can just make it yourself and then solder it, and put it together and ghen start programming :).
 
+All design files and PCB pdfs are included in the MAIN folder 
+
 there are 12 experiments, each with a special use case, they are as follows:
 
 | Experiment | Components | Main concept |
