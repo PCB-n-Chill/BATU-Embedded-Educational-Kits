@@ -11,7 +11,7 @@ there are 12 experiments, each with a special use case, they are as follows:
 | Experiment | Components | Main concept |
 | --- | --- | ---|
 | 1 | Arduino nano, MQ sensor, Buzzer | using MQ sensors with arduino |
-| 2 | An arduino nano that's connected to a 16x2 LCD in 4bit mode, a MOSFET motor driver, a DS18b20 temperature sensor and a joystick module | simple motor speed control with temperature and joystick and display data on LCD|
+| 2 | Arduino nano, 16x2 LCD in 4bit mode, MOSFET motor driver, DS18b20 temperature sensor and a joystick module | simple motor speed control with temperature and joystick and display data on LCD|
 | 3 | An arduino nano with HC05 bluetooth module and some LEDs, RGB and push button | practice using Bluetooth with arduino nano |
 | 4 | 2 arduino nanos on 2 different boards,  a transmitter with PIR and buttons and a receiver with LCD and MOSFET motor driver| practice bluetooth communication between 2 hc05 modules |
 | 4v1esp | An ESP32 with LEDs and push buttons, an OLED and a MOSFET motor driver and also a dht11 sensor | ESP32 webserver applications and bluetooth control |
